@@ -151,7 +151,7 @@ export default function Home() {
         </div>
 
         <p className="text-xs text-slate-500 mt-4">
-          Paper trading only. No real money is used. Market data from Binance public streams.
+          Paper trading only.  No real money is used. Market data from Binance public streams.
         </p>
       </div>
     </main>
